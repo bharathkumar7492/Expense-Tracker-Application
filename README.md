@@ -28,10 +28,15 @@ python main.py
 
 ## Project Structure
 expense_tracker_app/
+
 │
+
 ├── main.py        — app entry point
+
 ├── app.py         — UI design and logic
+
 ├── database.py    — all database operations
+
 └── README.md
 
 ## Author

@@ -6,7 +6,7 @@ import pymysql
 DATABASE_CREATE_SETTINGS = {
     "host" : "localhost",       # mysql sever is running on computer
     "user" : "root",            # mysql username
-    "password" : "Bharath@",    # password
+    "password" : "Bharath@",    # password & use your own mysql password
     "port" : 3306               # default mysql port
 }
 
